@@ -7,4 +7,3 @@ it should include uppercase and lowercase letters and numbers.<br />
 Then when a user is to be assigned a password, it uses random to select from a given string and generate a password but of fixed length that is to say 8 characters.
 Hjdjdjdjhd gh
 
-M
